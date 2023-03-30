@@ -9,3 +9,5 @@
 
 <img src="https://img.shields.io/badge/Figma-fe7d95?style=for-the-badge&logo=Figma&logoColor=fff"/> <img src="https://img.shields.io/badge/Adobe Illustrator-fe7d95?style=for-the-badge&logo=Adobe Illustrator&logoColor=fff"/> <img src="https://img.shields.io/badge/Adobe Photoshop-fe7d95?style=for-the-badge&logo=Adobe Photoshop&logoColor=fff"/>
 
+### Project-management:
+
