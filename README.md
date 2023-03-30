@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### The tools I use in work with:
+### _The tools I use in work with:_
 
 <h4 align="left">Web-development:</h4>
 
