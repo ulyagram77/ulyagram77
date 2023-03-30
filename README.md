@@ -11,3 +11,5 @@
 
 ### Project-management:
 
+<img src="https://img.shields.io/badge/ClickUp-fe7d95?style=for-the-badge&logo=ClickUp&logoColor=fff"/>
+
