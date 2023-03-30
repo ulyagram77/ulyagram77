@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Instruments wich I use in work with:
+### Instruments wich I use to work with:
 
 
 <em><h4 align="left" >Web-development:</h4></em>
@@ -15,3 +15,8 @@
 
 <img src="https://img.shields.io/badge/ClickUp-2188ff?style=for-the-badge&logo=ClickUp&logoColor=fff"/> <img src="https://img.shields.io/badge/Jira-2188ff?style=for-the-badge&logo=Jira&logoColor=fff"/>
 
+### Connect with me socially:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mark-hmnv/" target="blank"><img src="https://img.shields.io/badge/ClickUp-2188ff?style=for-the-badge&logo=ClickUp&logoColor=fff"/></a>
+</p>
