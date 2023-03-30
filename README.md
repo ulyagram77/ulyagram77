@@ -17,6 +17,5 @@
 
 ### Connect with me socially:
 
-
-<a href="https://www.linkedin.com/in/kirill-ulianov-832a62233/" target="blank"><img src="https://img.shields.io/badge/Linked In-fe7d95?style=for-the-badge&logo=LinkedIn&logoColor=fff"/></a> <a href="https://www.linkedin.com/in/kirill-ulianov-832a62233/" target="blank"><img src="https://img.shields.io/badge/Linked In-fe7d95?style=for-the-badge&logo=LinkedIn&logoColor=fff"/></a>
+<a href="https://www.linkedin.com/in/kirill-ulianov-832a62233/" target="blank"><img src="https://img.shields.io/badge/Linked In-fe7d95?style=for-the-badge&logo=LinkedIn&logoColor=fff"/></a> <a href="https://www.linkedin.com/in/kirill-ulianov-832a62233/" target="blank"><img src="https://img.shields.io/badge/Instagram-fe7d95?style=for-the-badge&logo=Instagram&logoColor=fff"/></a>
 
