@@ -7,5 +7,5 @@
 
 ### Web-design:
 
-<img src="https://img.shields.io/badge/Figma-2188ff?style=for-the-badge&logo=Figma&logoColor=fff"/> <img src="https://img.shields.io/badge/Adobe Illustrator-2188ff?style=for-the-badge&logo=Adobe Illustrator&logoColor=fff"/> <img src="https://img.shields.io/badge/Adobe Photoshop-2188ff?style=for-the-badge&logo=Adobe Photoshop&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Figma-fe7d95?style=for-the-badge&logo=Figma&logoColor=fff"/> <img src="https://img.shields.io/badge/Adobe Illustrator-2188ff?style=for-the-badge&logo=Adobe Illustrator&logoColor=fff"/> <img src="https://img.shields.io/badge/Adobe Photoshop-2188ff?style=for-the-badge&logo=Adobe Photoshop&logoColor=fff"/>
 
