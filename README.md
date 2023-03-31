@@ -1,11 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
 Glad to see you on my personal profile) I am Kirill, a novice web developer from Ukraine. I have team experience in web-application development, adaptive websites, simple one-page websites, design of websites and web-applications.
 
 ### Instruments wich I use to work with:
 
 <hr width="50%" size="2px">
-##scscsc
+
 
 <em><h4 align="left" >Web-development:</h4></em>
 
