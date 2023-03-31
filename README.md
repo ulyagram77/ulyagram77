@@ -17,6 +17,7 @@ Glad to see you on my personal profile) I am Kirill, a novice web developer from
 
 <img src="https://img.shields.io/badge/ClickUp-2188ff?style=for-the-badge&logo=ClickUp&logoColor=fff"/> <img src="https://img.shields.io/badge/Jira-2188ff?style=for-the-badge&logo=Jira&logoColor=fff"/> <img src="https://img.shields.io/badge/GitHub-2188ff?style=for-the-badge&logo=GitHub&logoColor=fff"/>
 
+<hr>
 ### Connect with me socially:
 
 <a href="https://www.linkedin.com/in/kirill-ulianov-832a62233/" target="blank"><img src="https://img.shields.io/badge/Linked In-fe7d95?style=for-the-badge&logo=LinkedIn&logoColor=fff"/></a> <a href="https://www.instagram.com/ulyagram77/" target="blank"><img src="https://img.shields.io/badge/Instagram-fe7d95?style=for-the-badge&logo=Instagram&logoColor=fff"/></a> <a href="mailto:ulyak.work@gmail.com" target="blank"><img src="https://img.shields.io/badge/GMAIL-fe7d95?style=for-the-badge&logo=Gmail&logoColor=fff"/></a> 
