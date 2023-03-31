@@ -4,8 +4,7 @@ Glad to see you on my personal profile) I am Kirill, a novice web developer from
 
 ### Instruments wich I use to work with:
 
-<hr>
-***
+<hr width="50%" size="2">
 
 
 <em><h4 align="left" >Web-development:</h4></em>
