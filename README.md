@@ -19,9 +19,9 @@ Glad to see you on my personal profile) I am Kirill, a novice web developer from
 
 ### Connect with me socially:
 
-<a href="https://www.linkedin.com/in/kirill-ulianov-832a62233/" target="blank"><img src="https://img.shields.io/badge/Linked In-fe7d95?style=for-the-badge&logo=LinkedIn&logoColor=fff"/></a> <a href="https://www.instagram.com/ulyagram77/" target="blank"><img src="https://img.shields.io/badge/Instagram-fe7d95?style=for-the-badge&logo=Instagram&logoColor=fff"/></a> <a href="mailto:kirillulianow@gmail.com" target="blank"><img src="https://img.shields.io/badge/GMAIL-fe7d95?style=for-the-badge&logo=Gmail&logoColor=fff"/></a>
+<a href="https://www.linkedin.com/in/kirill-ulianov-832a62233/" target="blank"><img src="https://img.shields.io/badge/Linked In-fe7d95?style=for-the-badge&logo=LinkedIn&logoColor=fff"/></a> <a href="https://www.instagram.com/ulyagram77/" target="blank"><img src="https://img.shields.io/badge/Instagram-fe7d95?style=for-the-badge&logo=Instagram&logoColor=fff"/></a> <a href="mailto:kirillulianow@gmail.com" target="blank"><img src="https://img.shields.io/badge/GMAIL-fe7d95?style=for-the-badge&logo=Gmail&logoColor=fff"/></a> <br> <br>
 
 
-<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulyagram77&layout=compact&theme=dark)
 
