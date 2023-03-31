@@ -3,7 +3,7 @@
 Glad to see you on my personal profile) I am Kirill, a novice web developer from Ukraine. I have team experience in web-application development, adaptive websites, simple one-page websites, design of websites and web-applications.
 
 ### Also you can check out my works here)
-<img src="https://img.shields.io/badge/portfolio-10437e?style=for-the-badge&logo=U&logoColor=fff"/>
+<a href="https://ulyagram77.github.io/ulyagram77.github.io-/" target="blank"><img src="https://img.shields.io/badge/PORTFOLIO-fe7d95?style=for-the-badge&logo=U&logoColor=fff"/></a>
 
 ## Instruments wich I use to work with:
 
