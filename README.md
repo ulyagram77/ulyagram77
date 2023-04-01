@@ -29,5 +29,5 @@ Glad to see you on my personal profile) I am Kirill, a novice web developer from
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulyagram77&layout=compact&theme=dark)
+
 
