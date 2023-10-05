@@ -27,16 +27,10 @@ Glad to see you on my personal profile) I am Kirill, a novice web developer from
 
 ## Connect with me socially:
 
-<a href="https://www.linkedin.com/in/kirill-ulianov-832a62233/" target="blank"><img src="https://img.shields.io/badge/?style=for-the-badge&logo=LinkedIn&logoColor=fff"/></a> <a href="https://www.instagram.com/ulyagram77/" target="blank"><img src="https://img.shields.io/badge/Instagram-fe7d95?style=for-the-badge&logo=Instagram&logoColor=fff"/></a> <a href="mailto:ulyak.work@gmail.com" target="blank"><img src="https://img.shields.io/badge/GMAIL-fe7d95?style=for-the-badge&logo=Gmail&logoColor=fff"/></a> 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gg" height="30" width="40" /></a>
-<a href="https://instagram.com/gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gg" height="30" width="40" /></a>
-
 <a href="https://instagram.com/gg" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/facebook.svg" alt="gg"/></a>
-  
-</p>
+<a href="https://instagram.com/gg" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/facebook.svg" alt="gg"/></a>
+<a href="https://instagram.com/gg" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/facebook.svg" alt="gg"/></a>
+<a href="https://instagram.com/gg" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/facebook.svg" alt="gg"/></a>
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
