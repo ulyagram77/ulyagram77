@@ -27,10 +27,10 @@ Glad to see you on my personal profile) I am Kirill, a novice web developer from
 
 ## Connect with me socially:
 
-<a href="https://instagram.com/gg" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/facebook.svg" alt="icon" width="35px"/></a>
-<a href="https://instagram.com/gg" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/instagram.svg" alt="icon" width="35px"/></a>
-<a href="https://instagram.com/gg" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/linkedin.svg" alt="icon" width="35px"/></a>
-<a href="https://instagram.com/gg" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/gmail.svg" alt="icon" width="35px"/></a>
+<a href="https://www.facebook.com/profile.php?id=100014869834075" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/facebook.svg" alt="icon" width="35px"/></a>
+<a href="https://www.instagram.com/ulyagram77" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/instagram.svg" alt="icon" width="35px"/></a>
+<a href="https://www.linkedin.com/in/kirill-ulianov-832a62233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/linkedin.svg" alt="icon" width="35px"/></a>
+<a href="mailto:ulyak.work@gmail.com" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/gmail.svg" alt="icon" width="35px"/></a>
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
