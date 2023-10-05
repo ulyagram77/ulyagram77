@@ -28,9 +28,9 @@ Glad to see you on my personal profile) I am Kirill, a novice web developer from
 ## Connect with me socially:
 
 <a href="https://instagram.com/gg" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/facebook.svg" alt="icon" width="40px"/></a>
-<a href="https://instagram.com/gg" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/instagram.svg" alt="icon"/></a>
-<a href="https://instagram.com/gg" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/linkedin.svg" alt="icon"/></a>
-<a href="https://instagram.com/gg" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/gmail.svg" alt="icon"/></a>
+<a href="https://instagram.com/gg" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/instagram.svg" alt="icon" width="40px"/></a>
+<a href="https://instagram.com/gg" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/linkedin.svg" alt="icon" width="40px"/></a>
+<a href="https://instagram.com/gg" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/gmail.svg" alt="icon" width="40px"/></a>
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
