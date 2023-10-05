@@ -22,7 +22,7 @@ Glad to see you on my personal profile) I am Kirill, a novice web developer from
 
 <em><h4 align="left">Project-management:</h4></em>
 
-<img src="https://img.shields.io/badge/ClickUp-2188ff?style=for-the-badge&logo=ClickUp&logoColor=fff"/> <img src="https://img.shields.io/badge/Jira-2188ff?style=for-the-badge&logo=Jira&logoColor=fff"/> <img src="https://img.shields.io/badge/GitHub-2188ff?style=for-the-badge&logo=GitHub&logoColor=fff"/>
+<img src="https://img.shields.io/badge/ClickUp-ffe158?style=for-the-badge&logo=ClickUp&logoColor=000"/> <img src="https://img.shields.io/badge/Jira-ffe158?style=for-the-badge&logo=Jira&logoColor=000"/> <img src="https://img.shields.io/badge/GitHub-ffe158?style=for-the-badge&logo=GitHub&logoColor=000"/>
 
 
 ## Connect with me socially:
