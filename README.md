@@ -34,7 +34,7 @@ Glad to see you on my personal profile) I am Kirill, a novice web developer from
 <a href="https://linkedin.com/in/gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gg" height="30" width="40" /></a>
 <a href="https://instagram.com/gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gg" height="30" width="40" /></a>
 
-<a href="https://instagram.com/gg" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/facebook.jpg" alt="gg"/></a>
+<a href="https://instagram.com/gg" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/facebook.svg" alt="gg"/></a>
   
 </p>
 
