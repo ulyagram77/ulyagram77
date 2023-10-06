@@ -16,9 +16,28 @@ Glad to see you on my personal profile) I am Kirill, a novice web developer from
 <img src="https://img.shields.io/badge/HTML-ffe158?style=for-the-badge&logo=html5&logoColor=000"/> <img src="https://img.shields.io/badge/CSS-ffe158?style=for-the-badge&logo=css3&logoColor=000"/> <img src="https://img.shields.io/badge/Sass-ffe158?style=for-the-badge&logo=Sass&logoColor=000"/> <img src="https://img.shields.io/badge/Java Script-ffe158?style=for-the-badge&logo=JavaScript&logoColor=000"/> <img src="https://img.shields.io/badge/React JS-ffe158?style=for-the-badge&logo=React&logoColor=000"/> <img src="https://img.shields.io/badge/Redux-ffe158?style=for-the-badge&logo=Redux&logoColor=000"/> <img src="https://img.shields.io/badge/GIT-ffe158?style=for-the-badge&logo=Git&logoColor=000"/><br>
 <img src="https://img.shields.io/badge/Bootstrap-ffe158?style=for-the-badge&logo=Bootstrap&logoColor=000"/> <img src="https://img.shields.io/badge/Jquery-ffe158?style=for-the-badge&logo=jQuery&logoColor=000"/> <img src="https://img.shields.io/badge/Node.js-ffe158?style=for-the-badge&logo=Node.js&logoColor=000"/> <img src="https://img.shields.io/badge/gulp-ffe158?style=for-the-badge&logo=gulp&logoColor=000"/> <img src="https://img.shields.io/badge/Webpack-ffe158?style=for-the-badge&logo=Webpack&logoColor=000"/>
 
-<em><h4 align="left">Web-design:</h4></em>
+<a href="https://getbootstrap.com/">
+  <img src="https://img.shields.io/badge/Bootstrap-ffe158?style=for-the-badge&logo=Bootstrap&logoColor=000"/>
+</a>
 
-<img src="https://img.shields.io/badge/Figma-ffe158?style=for-the-badge&logo=Figma&logoColor=000"/> <img src="https://img.shields.io/badge/Adobe Illustrator-ffe158?style=for-the-badge&logo=Adobe Illustrator&logoColor=000"/> <img src="https://img.shields.io/badge/Adobe Photoshop-ffe158?style=for-the-badge&logo=Adobe Photoshop&logoColor=000"/>
+<a href="https://jquery.com/">
+  <img src="https://img.shields.io/badge/jQuery-ffe158?style=for-the-badge&logo=jQuery&logoColor=000"/>
+</a>
+
+<a href="https://nodejs.org/">
+  <img src="https://img.shields.io/badge/Node.js-ffe158?style=for-the-badge&logo=Node.js&logoColor=000"/>
+</a>
+
+<a href="https://gulpjs.com/">
+  <img src="https://img.shields.io/badge/gulp-ffe158?style=for-the-badge&logo=gulp&logoColor=000"/>
+</a>
+
+<a href="https://webpack.js.org/">
+  <img src="https://img.shields.io/badge/Webpack-ffe158?style=for-the-badge&logo=Webpack&logoColor=000"/>
+</a>
+
+
+<em><h4 align="left">Web-design:</h4></em>
 
 <a href="https://www.figma.com/">
   <img src="https://img.shields.io/badge/Figma-ffe158?style=for-the-badge&logo=Figma&logoColor=000"/>
