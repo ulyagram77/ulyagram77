@@ -69,7 +69,7 @@ Glad to see you on my personal profile) I am Kirill, a novice web developer from
   <img src="https://img.shields.io/badge/ClickUp-ffe158?style=for-the-badge&logo=ClickUp&logoColor=000"/>
 </a>
 
-<a href="https://www.atlassian.com/software/jira">
+<a href="https://www.atlassian.com/ru/software/jira">
   <img src="https://img.shields.io/badge/Jira-ffe158?style=for-the-badge&logo=Jira&logoColor=000"/>
 </a>
 
