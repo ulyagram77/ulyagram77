@@ -40,10 +40,6 @@ Glad to see you on my personal profile) I am Kirill, a novice web developer from
   <img src="https://img.shields.io/badge/GIT-ffe158?style=for-the-badge&logo=Git&logoColor=000"/>
 </a>
 
-
-<img src="https://img.shields.io/badge/HTML-ffe158?style=for-the-badge&logo=html5&logoColor=000"/> <img src="https://img.shields.io/badge/CSS-ffe158?style=for-the-badge&logo=css3&logoColor=000"/> <img src="https://img.shields.io/badge/Sass-ffe158?style=for-the-badge&logo=Sass&logoColor=000"/> <img src="https://img.shields.io/badge/Java Script-ffe158?style=for-the-badge&logo=JavaScript&logoColor=000"/> <img src="https://img.shields.io/badge/React JS-ffe158?style=for-the-badge&logo=React&logoColor=000"/> <img src="https://img.shields.io/badge/Redux-ffe158?style=for-the-badge&logo=Redux&logoColor=000"/> <img src="https://img.shields.io/badge/GIT-ffe158?style=for-the-badge&logo=Git&logoColor=000"/><br>
-
-
 <a href="https://getbootstrap.com/">
   <img src="https://img.shields.io/badge/Bootstrap-ffe158?style=for-the-badge&logo=Bootstrap&logoColor=000"/>
 </a>
