@@ -20,6 +20,19 @@ Glad to see you on my personal profile) I am Kirill, a novice web developer from
 
 <img src="https://img.shields.io/badge/Figma-ffe158?style=for-the-badge&logo=Figma&logoColor=000"/> <img src="https://img.shields.io/badge/Adobe Illustrator-ffe158?style=for-the-badge&logo=Adobe Illustrator&logoColor=000"/> <img src="https://img.shields.io/badge/Adobe Photoshop-ffe158?style=for-the-badge&logo=Adobe Photoshop&logoColor=000"/>
 
+<a href="https://www.figma.com/">
+  <img src="https://img.shields.io/badge/Figma-ffe158?style=for-the-badge&logo=Figma&logoColor=000"/>
+</a>
+
+<a href="https://www.adobe.com/products/illustrator.html">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-ffe158?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=000"/>
+</a>
+
+<a href="https://www.adobe.com/products/photoshop.html">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-ffe158?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=000"/>
+</a>
+
+
 <em><h4 align="left">Project-management:</h4></em>
 
 <img src="https://img.shields.io/badge/ClickUp-ffe158?style=for-the-badge&logo=ClickUp&logoColor=000"/> <img src="https://img.shields.io/badge/Jira-ffe158?style=for-the-badge&logo=Jira&logoColor=000"/> <img src="https://img.shields.io/badge/GitHub-ffe158?style=for-the-badge&logo=GitHub&logoColor=000"/>
