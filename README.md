@@ -56,23 +56,6 @@ Glad to see you on my personal profile) I am Kirill, a novice web-developer from
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-ffe158?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=000"/>
 </a>
 
-
-<em><h4 align="left">Project-management:</h4></em>
-
-<a href="https://www.clickup.com/">
-  <img src="https://img.shields.io/badge/ClickUp-ffe158?style=for-the-badge&logo=ClickUp&logoColor=000"/>
-</a>
-
-<a href="https://www.atlassian.com/ru/software/jira">
-  <img src="https://img.shields.io/badge/Jira-ffe158?style=for-the-badge&logo=Jira&logoColor=000"/>
-</a>
-
-<a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-ffe158?style=for-the-badge&logo=GitHub&logoColor=000"/>
-</a>
-
-
-
 ## Connect with me socially:
 
 <a href="https://www.facebook.com/profile.php?id=100014869834075" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/facebook.svg" alt="icon" width="35px"/></a>
