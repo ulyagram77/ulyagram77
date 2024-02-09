@@ -34,12 +34,6 @@ Glad to see you on my personal profile) I am Kirill, a novice web-developer from
 <a href="https://getbootstrap.com/">
   <img src="https://img.shields.io/badge/Bootstrap-ffe158?style=for-the-badge&logo=Bootstrap&logoColor=000"/>
 </a>
-<a href="https://jquery.com/">
-  <img src="https://img.shields.io/badge/jQuery-ffe158?style=for-the-badge&logo=jQuery&logoColor=000"/>
-</a>
-<a href="https://nodejs.org/">
-  <img src="https://img.shields.io/badge/Node.js-ffe158?style=for-the-badge&logo=Node.js&logoColor=000"/>
-</a>
 <a href="https://gulpjs.com/">
   <img src="https://img.shields.io/badge/gulp-ffe158?style=for-the-badge&logo=gulp&logoColor=000"/>
 </a>
