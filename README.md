@@ -28,9 +28,6 @@ Glad to see you on my personal profile) I am Kirill, a novice web-developer from
 <a href="https://redux.js.org/">
   <img src="https://img.shields.io/badge/Redux-ffe158?style=for-the-badge&logo=Redux&logoColor=000"/>
 </a><br>
-<a href="https://git-scm.com/">
-  <img src="https://img.shields.io/badge/GIT-ffe158?style=for-the-badge&logo=Git&logoColor=000"/>
-</a>
 <a href="https://getbootstrap.com/">
   <img src="https://img.shields.io/badge/Bootstrap-ffe158?style=for-the-badge&logo=Bootstrap&logoColor=000"/>
 </a>
@@ -39,6 +36,17 @@ Glad to see you on my personal profile) I am Kirill, a novice web-developer from
 </a>
 <a href="https://webpack.js.org/">
   <img src="https://img.shields.io/badge/Webpack-ffe158?style=for-the-badge&logo=Webpack&logoColor=000"/>
+</a>
+<a href="https://vitejs.dev/">
+  <img src="https://img.shields.io/badge/Vite-ffe158?style=for-the-badge&logo=Vite&logoColor=000"/>
+</a>
+
+<em><h4 align="left" >Team-development:</h4></em>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/GIT-ffe158?style=for-the-badge&logo=Git&logoColor=000"/>
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/GIT-ffe158?style=for-the-badge&logo=ClickUp&logoColor=000"/>
 </a>
 
 
