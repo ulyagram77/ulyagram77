@@ -22,6 +22,9 @@ Glad to see you on my personal profile. I am Kirill, a novice web-developer from
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://img.shields.io/badge/JavaScript-ffe158?style=for-the-badge&logo=JavaScript&logoColor=000"/>
 </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-ffe158?style=for-the-badge&logo=TypeScript&logoColor=000"/>
+</a>
 <a href="https://reactjs.org/">
   <img src="https://img.shields.io/badge/React%20JS-ffe158?style=for-the-badge&logo=React&logoColor=000"/>
 </a>
