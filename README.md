@@ -79,9 +79,9 @@ Glad to see you on my personal profile. I am Kirill, a novice web-developer from
 </a>
 
 ## Connect with me socially:
-<a href="https://www.instagram.com/ulyagram77" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/instagram.svg" alt="icon" width="35px"/></a>
 <a href="https://www.linkedin.com/in/kyrylo-ulianov-832a62233/" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/linkedin.svg" alt="icon" width="35px"/></a>
 <a href="mailto:ulyak.work@gmail.com" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/gmail.svg" alt="icon" width="35px"/></a>
+<a href="https://www.instagram.com/ulyagram77" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/instagram.svg" alt="icon" width="35px"/></a>
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
