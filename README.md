@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Glad to see you on my personal profile. I am Kyrylo, a Fullstack-developer from Ukraine. 
+Glad to see you on my personal profile. I am Kyrylo, a Fullstack-developer from Ukraine. <br/>
 I have team experience in web-application development, adaptive websites, simple one-page websites, design of websites and web-applications.
 
 ### Also you can check out my works here)
