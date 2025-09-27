@@ -9,7 +9,7 @@ Glad to see you on my personal profile. I am Kirill, a novice web-developer from
 ## Instruments wich I use to work with:
 
 
-<em><h4 align="left" >Frontend:</h4></em>
+<em><h4 align="left" >Frontend stack:</h4></em>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://img.shields.io/badge/HTML-ffe158?style=for-the-badge&logo=html5&logoColor=000"/>
 </a>
@@ -19,23 +19,20 @@ Glad to see you on my personal profile. I am Kirill, a novice web-developer from
 <a href="https://sass-lang.com/">
   <img src="https://img.shields.io/badge/Sass-ffe158?style=for-the-badge&logo=Sass&logoColor=000"/>
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://img.shields.io/badge/JavaScript-ffe158?style=for-the-badge&logo=JavaScript&logoColor=000"/>
-</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript">
   <img src="https://img.shields.io/badge/TypeScript-ffe158?style=for-the-badge&logo=TypeScript&logoColor=000"/>
 </a>
 <a href="https://reactjs.org/">
   <img src="https://img.shields.io/badge/React-ffe158?style=for-the-badge&logo=React&logoColor=000"/>
 </a>
-<a href="https://redux.js.org/">
-  <img src="https://img.shields.io/badge/Redux-ffe158?style=for-the-badge&logo=Redux&logoColor=000"/>
+<a href="https://reactjs.org/">
+  <img src="https://img.shields.io/badge/React-ffe158?style=for-the-badge&logo=React&logoColor=000"/>
+</a>
+<a href="https://nextjs.org/">
+  <img src="https://img.shields.io/badge/Next-ffe158?style=for-the-badge&logo=nextdotjs&logoColor=000"/>
 </a><br>
 <a href="https://ui.shadcn.com/">
   <img src="https://img.shields.io/badge/Shadcn-ffe158?style=for-the-badge&logo=shadcnui&logoColor=000"/>
-</a>
-<a href="https://gulpjs.com/">
-  <img src="https://img.shields.io/badge/gulp-ffe158?style=for-the-badge&logo=gulp&logoColor=000"/>
 </a>
 <a href="https://webpack.js.org/">
   <img src="https://img.shields.io/badge/Webpack-ffe158?style=for-the-badge&logo=Webpack&logoColor=000"/>
@@ -44,14 +41,41 @@ Glad to see you on my personal profile. I am Kirill, a novice web-developer from
   <img src="https://img.shields.io/badge/Vite-ffe158?style=for-the-badge&logo=Vite&logoColor=000"/>
 </a>
 
-<em><h4 align="left" >Backend:</h4></em>
+<em><h4 align="left" >Backend stack:</h4></em>
+<a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript">
+  <img src="https://img.shields.io/badge/TypeScript-ffe158?style=for-the-badge&logo=TypeScript&logoColor=000"/>
+</a>
+<a href="https://nestjs.com/">
+  <img src="https://img.shields.io/badge/TypeScript-ffe158?style=for-the-badge&logo=TypeScript&logoColor=000"/>
+</a>
+<a href="https://www.elastic.co/">
+  <img src="https://img.shields.io/badge/Elasticksearch-ffe158?style=for-the-badge&logo=elastic&logoColor=000"/>
+</a>
 
-<em><h4 align="left" >Team-development:</h4></em>
+<em><h4 align="left" >Deployment & Hosting stack:</h4></em>
+<a href="https://vercel.com/">
+  <img src="https://img.shields.io/badge/Versel-ffe158?style=for-the-badge&logo=vercel&logoColor=000"/>
+</a>
+<a href="https://www.netlify.com/">
+  <img src="https://img.shields.io/badge/Netlify-ffe158?style=for-the-badge&logo=netlify&logoColor=000"/>
+</a>
+<a href="https://www.digitalocean.com/">
+  <img src="https://img.shields.io/badge/Digital Ocean-ffe158?style=for-the-badge&logo=digitalocean&logoColor=000"/>
+</a>
+<a href="https://www.jenkins.io/">
+  <img src="https://img.shields.io/badge/Jenkins-ffe158?style=for-the-badge&logo=jenkins&logoColor=000"/>
+</a>
+
+
+<em><h4 align="left" >Team-development stack:</h4></em>
 <a href="https://git-scm.com/">
   <img src="https://img.shields.io/badge/GIT-ffe158?style=for-the-badge&logo=Git&logoColor=000"/>
 </a>
 <a href="https://clickup.com/">
   <img src="https://img.shields.io/badge/ClickUp-ffe158?style=for-the-badge&logo=ClickUp&logoColor=000"/>
+</a>
+<a href="https://www.notion.com/">
+  <img src="https://img.shields.io/badge/Notion-ffe158?style=for-the-badge&logo=notion&logoColor=000"/>
 </a>
 
 ## Connect with me socially:
