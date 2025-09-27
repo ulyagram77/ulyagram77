@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Glad to see you on my personal profile. I am Kyrylo, a Fullstack-developer from Ukraine. I have team experience in web-application development, adaptive websites, simple one-page websites, design of websites and web-applications.
+Glad to see you on my personal profile. I am Kyrylo, a Fullstack-developer from Ukraine. 
+I have team experience in web-application development, adaptive websites, simple one-page websites, design of websites and web-applications.
 
 ### Also you can check out my works here)
 <a href="https://ulyagram-portfolio.vercel.app" target="blank"><img src="https://img.shields.io/badge/PORTFOLIO-ffe158?style=for-the-badge&logo=U&logoColor=000"/></a>
