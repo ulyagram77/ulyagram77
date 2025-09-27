@@ -25,8 +25,8 @@ Glad to see you on my personal profile. I am Kirill, a novice web-developer from
 <a href="https://reactjs.org/">
   <img src="https://img.shields.io/badge/React-ffe158?style=for-the-badge&logo=React&logoColor=000"/>
 </a>
-<a href="https://reactjs.org/">
-  <img src="https://img.shields.io/badge/React-ffe158?style=for-the-badge&logo=React&logoColor=000"/>
+<a href="https://redux.js.org/">
+  <img src="https://img.shields.io/badge/Redux-ffe158?style=for-the-badge&logo=redux&logoColor=000"/>
 </a>
 <a href="https://nextjs.org/">
   <img src="https://img.shields.io/badge/Next-ffe158?style=for-the-badge&logo=nextdotjs&logoColor=000"/>
