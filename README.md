@@ -9,7 +9,7 @@ Glad to see you on my personal profile. I am Kirill, a novice web-developer from
 ## Instruments wich I use to work with:
 
 
-<em><h4 align="left" >Web-development:</h4></em>
+<em><h4 align="left" >Frontend:</h4></em>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://img.shields.io/badge/HTML-ffe158?style=for-the-badge&logo=html5&logoColor=000"/>
 </a>
@@ -26,13 +26,13 @@ Glad to see you on my personal profile. I am Kirill, a novice web-developer from
   <img src="https://img.shields.io/badge/TypeScript-ffe158?style=for-the-badge&logo=TypeScript&logoColor=000"/>
 </a>
 <a href="https://reactjs.org/">
-  <img src="https://img.shields.io/badge/React%20JS-ffe158?style=for-the-badge&logo=React&logoColor=000"/>
+  <img src="https://img.shields.io/badge/React-ffe158?style=for-the-badge&logo=React&logoColor=000"/>
 </a>
 <a href="https://redux.js.org/">
   <img src="https://img.shields.io/badge/Redux-ffe158?style=for-the-badge&logo=Redux&logoColor=000"/>
 </a><br>
-<a href="https://getbootstrap.com/">
-  <img src="https://img.shields.io/badge/Bootstrap-ffe158?style=for-the-badge&logo=Bootstrap&logoColor=000"/>
+<a href="https://ui.shadcn.com/">
+  <img src="https://img.shields.io/badge/Shadcn-ffe158?style=for-the-badge&logo=shadcnui&logoColor=000"/>
 </a>
 <a href="https://gulpjs.com/">
   <img src="https://img.shields.io/badge/gulp-ffe158?style=for-the-badge&logo=gulp&logoColor=000"/>
@@ -43,6 +43,8 @@ Glad to see you on my personal profile. I am Kirill, a novice web-developer from
 <a href="https://vitejs.dev/">
   <img src="https://img.shields.io/badge/Vite-ffe158?style=for-the-badge&logo=Vite&logoColor=000"/>
 </a>
+
+<em><h4 align="left" >Backend:</h4></em>
 
 <em><h4 align="left" >Team-development:</h4></em>
 <a href="https://git-scm.com/">
