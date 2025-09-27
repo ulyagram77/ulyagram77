@@ -11,7 +11,7 @@ I have team experience in web-application development, adaptive websites, simple
 
 
 <em><h4 align="left" >Frontend stack:</h4></em>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="width: 50%">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://img.shields.io/badge/HTML-ffe158?style=for-the-badge&logo=html5&logoColor=000"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
