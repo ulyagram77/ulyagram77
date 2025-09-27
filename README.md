@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Kyrylo, a Fullstack-developer from Ukraine. <br/>
+I am Kyrylo, a Fullstack-developer from Ukraine. <br/><br/>
 I have team experience in web-application development, adaptive websites, simple one-page websites, design of websites and web-applications.
 
 ### See what I do in action 👇
@@ -19,6 +19,9 @@ I have team experience in web-application development, adaptive websites, simple
 </a>
 <a href="https://sass-lang.com/">
   <img src="https://img.shields.io/badge/Sass-ffe158?style=for-the-badge&logo=Sass&logoColor=000"/>
+</a>
+<a href="https://tailwindcss.com/">
+  <img src="https://img.shields.io/badge/Tailwind-ffe158?style=for-the-badge&logo=tailwindcss&logoColor=000"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript">
   <img src="https://img.shields.io/badge/TypeScript-ffe158?style=for-the-badge&logo=TypeScript&logoColor=000"/>
