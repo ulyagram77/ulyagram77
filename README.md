@@ -88,7 +88,7 @@ I have team experience in web-application development, adaptive websites, simple
 <a href="https://www.instagram.com/ulyagram77" target="blank"><img align="center" src="https://github.com/ulyagram77/ulyagram77/blob/master/social-icons/instagram.svg" alt="icon" width="35px"/></a>
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=ff0000&authorColor=00ff00&backgroundColor=0000ff&symbolColor=ffff00)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
